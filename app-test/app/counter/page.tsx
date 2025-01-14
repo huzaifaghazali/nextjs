@@ -1,5 +1,3 @@
-'use client';
-
 import Counter from '@/components/Counter';
 
 const CounterPage = () => {
